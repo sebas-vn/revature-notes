@@ -56,5 +56,28 @@ public class Driver {
 		
 		// Everything above that has been defined are Java Literals, which are simply hard-coded fixed values that we assign to a variable
 		
+		
+		
+		int min; // 
+		min = Integer.MIN_VALUE; // static variables are available on a class level
+		
+		// Completely convert the primitive data type into an Integer Object
+		// (AUTOBOXING) prim -> object
+		Integer obj1 = new Integer(20);
+		Integer obj2 = new Integer("20");
+		
+		// Question 1: do obj1 & obj2 have the same value?
+		System.out.println(obj1.equals(obj2)); // alt + shift + x, j -> YES they have the same value
+		
+		// Question 2: do obj1 & obj2 point to the same object in the heap?
+		System.out.println(obj1 == obj2); // the == checks for address in memory
+		
+		// Unboxing: object -> primitive type
+		Double dubObj = 15.45; // we are instantiating a Double object that has the value of the initialized primitive literal
+		Double dubObj2 = new Double(15.45);
+		
+		double dubPrimitive = dubObj; // implicit way of transforming it
+		
+		
 	}
 }

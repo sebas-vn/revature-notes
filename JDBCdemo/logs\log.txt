@@ -1,0 +1,35 @@
+2021-09-01 10:20:28 INFO  com.revature.LoggingDriver:13 - 
+otEmpty{userId= } - 
+otEmpty{event= } - Application has started
+2021-09-01 10:20:28 ERROR com.revature.LoggingDriver:18 - 
+otEmpty{userId= } - 
+otEmpty{event= } - Something has gone horribly wrong
+2021-09-01 10:20:28 INFO  com.revature.LoggingDriver:21 - 
+otEmpty{userId= } - 
+otEmpty{event= } - Application has successfully completed!
+2021-09-01 10:24:35 INFO  com.revature.LoggingDriver:13 - Application has started
+2021-09-01 10:24:35 ERROR com.revature.LoggingDriver:18 - Something has gone horribly wrong
+2021-09-01 10:24:35 INFO  com.revature.LoggingDriver:21 - Application has successfully completed!
+2021-09-01 10:27:51 INFO  com.revature.LoggingDriver:13 - Application has started
+2021-09-01 10:27:51 ERROR com.revature.LoggingDriver:18 - Something has gone horribly wrong
+2021-09-01 10:27:51 INFO  com.revature.LoggingDriver:21 - Application has successfully completed!
+2021-09-01 10:28:30 INFO  com.revature.LoggingDriver:13 - Application has started
+2021-09-01 10:28:30 ERROR com.revature.LoggingDriver:18 - Something has gone horribly wrong
+2021-09-01 10:28:30 INFO  com.revature.LoggingDriver:21 - Application has successfully completed!
+2021-09-01 11:24:59 ERROR revature.repositories.UserDao:110 - Unable to insert User
+2021-09-01 11:25:44 ERROR revature.repositories.UserDao:110 - Unable to insert User
+2021-09-01 11:29:25 INFO  revature.repositories.UserDao:104 - Successfully insert user with id5
+2021-09-01 11:53:21 ERROR revature.repositories.UserDao:110 - Unable to insert User
+2021-09-02 11:45:01 INFO  revature.repositories.UserDao:104 - Successfully insert user with id1
+2021-09-02 11:45:01 INFO  revature.services.UserService:31 - Registration of user with id 1 was successful.
+2021-09-02 11:46:05 INFO  revature.repositories.UserDao:104 - Successfully insert user with id2
+2021-09-02 11:46:05 INFO  revature.services.UserService:31 - Registration of user with id 2 was successful.
+2021-09-02 11:47:26 INFO  revature.repositories.UserDao:104 - Successfully insert user with id3
+2021-09-02 11:47:26 INFO  revature.services.UserService:31 - Registration of user with id 3 was successful.
+2021-09-02 11:51:58 INFO  revature.repositories.UserDao:104 - Successfully insert user with id4
+2021-09-02 11:51:58 INFO  revature.services.UserService:31 - Registration of user with id 4 was successful.
+2021-09-02 11:52:52 INFO  revature.repositories.UserDao:104 - Successfully insert user with id5
+2021-09-02 11:52:52 INFO  revature.services.UserService:31 - Registration of user with id 5 was successful.
+2021-09-02 11:54:26 INFO  revature.repositories.UserDao:104 - Successfully insert user with id6
+2021-09-02 11:54:26 INFO  revature.services.UserService:31 - Registration of user with id 6 was successful.
+2021-09-02 15:06:07 INFO  revature.services.UserService:31 - Registration of user with id 42 was successful.

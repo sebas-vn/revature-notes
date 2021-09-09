@@ -1,0 +1,13 @@
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/App.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/repositories/UserDao.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/util/ConnectionUtil.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/models/Role.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/services/UserService.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/exceptions/RegisterUserFailedException.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/models/User.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/repositories/IAccountDao.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/repositories/IUserDao.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/services/AccountService.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/models/Account.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/LoggingDriver.java
+/home/ron/Documents/Revature/revature-notes/JDBCdemo/src/main/java/com/revature/repositories/AccountDao.java
